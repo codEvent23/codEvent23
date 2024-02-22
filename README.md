@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, we are codEvent(PVT)(LTD)Company</h1>
 <h3 align="center">Bridging Innovation in Code, Unleashing Magic in Events!</h3>
+<p align="center"><img src="https://media.licdn.com/dms/image/D4E03AQGcFylqy-JXJA/profile-displayphoto-shrink_800_800/0/1700132194493?e=2147483647&v=beta&t=aoe55b2inCEOwZtBGl8LBs8PiyLcBzEhpCDG9X6AsHs"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevent23&label=Profile%20views&color=0e75b6&style=flat" alt="codevent23" /> </p>
 
